@@ -1,0 +1,28 @@
+{
+  "pages": {
+    "/dashboard/invoices/create/page": [
+      "static/chunks/89c6a_next_dist_65c625fe._.js",
+      "static/chunks/89c6a_next_dist_client_components_builtin_global-error_1ecf64dd.js",
+      "static/chunks/[root-of-the-server]__53967867._.css",
+      "static/chunks/app_layout_tsx_1ecf64dd._.js",
+      "static/chunks/_aa3f7f95._.js",
+      "static/chunks/app_dashboard_layout_tsx_90382314._.js",
+      "static/chunks/app_dashboard_invoices_error_tsx_f8b89dfd._.js",
+      "static/chunks/app_dashboard_invoices_error_tsx_23586947._.js",
+      "static/chunks/_e4eea50a._.js",
+      "static/chunks/app_dashboard_invoices_create_page_tsx_23586947._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d8f069e1._.js",
+      "static/chunks/1987f_dist_compiled_react-dom-experimental_cjs_react-dom-client_development_3722978e.js",
+      "static/chunks/89c6a_next_dist_compiled_react-dom-experimental_cjs_react-dom_development_12f606f7.js",
+      "static/chunks/89c6a_next_dist_compiled_react-dom-experimental_ad70e47a._.js",
+      "static/chunks/89c6a_next_dist_compiled_react-server-dom-turbopack-experimental_eab20cfd._.js",
+      "static/chunks/89c6a_next_dist_compiled_next-devtools_index_930d3003.js",
+      "static/chunks/89c6a_next_dist_compiled_da1c9707._.js",
+      "static/chunks/89c6a_next_dist_client_8e8bbadb._.js",
+      "static/chunks/89c6a_next_dist_d249b299._.js",
+      "static/chunks/69652_@swc_helpers_cjs_77b72907._.js",
+      "static/chunks/_a0ff3932._.js",
+      "static/chunks/turbopack-_e54de0be._.js"
+    ]
+  }
+}
